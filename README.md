@@ -1,2 +1,6 @@
 # hello-world
-just another respitory
+
+hi humans!
+
+hubot here, i like node.js and coffeescript (that's what I'm made of!)
+I've had tacos on the moon and find them superoir to earth tacos.
